@@ -5,7 +5,6 @@
         padding: 0;
         width: 1280px;
         background: #FFF;
-
     }
 
     ul {
@@ -30,6 +29,11 @@
         font-weight: 400;
         line-height: 16px;
         text-transform: uppercase;
+    }
+
+    li:hover {
+        background-color: #fafafa;
+        cursor: pointer;
     }
 
     .main_products {

@@ -18,4 +18,7 @@
   font-weight: 600;
   line-height: normal;
   text-transform: uppercase;
+}
+.container .links:hover {
+  color: #F71963;
 }/*# sourceMappingURL=Navbar.module.css.map */

@@ -10,6 +10,7 @@
 
     .logo {
         width: 20%;
+        cursor: pointer;
     }
 
     .input_search {
@@ -36,7 +37,9 @@
             outline: none;
         }
 
-
+        img {
+            cursor: pointer;
+        }
     }
 
     .actions {

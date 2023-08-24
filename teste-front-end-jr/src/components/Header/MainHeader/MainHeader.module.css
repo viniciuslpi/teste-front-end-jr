@@ -10,6 +10,7 @@
 }
 .container .logo {
   width: 20%;
+  cursor: pointer;
 }
 .container .input_search {
   width: 58%;
@@ -32,6 +33,9 @@
 }
 .container .input_search input:focus {
   outline: none;
+}
+.container .input_search img {
+  cursor: pointer;
 }
 .container .actions {
   width: 25%;

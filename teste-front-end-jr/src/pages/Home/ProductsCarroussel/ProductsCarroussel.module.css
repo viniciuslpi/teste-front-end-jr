@@ -26,6 +26,10 @@
   line-height: 16px;
   text-transform: uppercase;
 }
+.container li:hover {
+  background-color: #fafafa;
+  cursor: pointer;
+}
 .container .main_products {
   margin: 20px 0;
   display: flex;
