@@ -22,6 +22,7 @@ Before you begin, make sure you have the following installed on your system:
 
 ```bash
     cd teste-front-end-jr
+    cd teste-front-end-jr
 ```
 
 3. Install the project dependencies using npm:
